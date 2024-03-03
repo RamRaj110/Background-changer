@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+h3 {
+    margin-top: 20px;
+    padding: 20px;
+  }
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+}
+
+.container button {
+    padding: 20px;
+    margin: 20px;
+    height: 100px;
+    width: 100px;
+}
+#white{
+    background-color: white;
+}
+#yellow{
+    background-color: yellow;
+}
+#blue{
+    background-color: blue;
+}
+#purple{
+    background-color: purple;
+}
+#aqua{
+    background-color: aqua;
+}
